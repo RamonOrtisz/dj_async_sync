@@ -1,2 +1,2 @@
-#atividade
-  loop contagem 
+# atividade
+  loop contagem + add requiriments.txt
